@@ -1,5 +1,6 @@
 * {
-
+    margin: 0;
+    padding: 0;
 }
 
 main {
@@ -7,7 +8,7 @@ main {
     background-color:  rgb(138, 83, 147);
 }
 
-form {
+.container {
     width: 80%;
     height: 500px;
     margin: auto;
