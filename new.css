@@ -67,35 +67,35 @@ a {
 
 /*media-screen responsive design*/
 @media only screen and (max-width: 640px) {
-    .container{
+    .container {
         width: 40%;
         background-color: gray;
     }
 }
 
 @media only screen and (max-width: 768px) {
-    .container{
+    .container {
         width: 50%;
         background-color: rgb(91, 89, 89);
     }
 }
 
 @media only screen and (max-width: 1024px) {
-    .container{
+    .container {
         width: 60%;
         background-color: rgb(28, 1, 1);
     }
 }
 
 @media only screen and (max-width: 1280px) {
-    .container{
+    .container {
         width: 70%;
         background-color: aliceblue;
     }
 }
 
 @media only screen and (max-width: 1536px) {
-    .container{
+    .container {
         width: 80%;
         background-color: whitesmoke;
     }
